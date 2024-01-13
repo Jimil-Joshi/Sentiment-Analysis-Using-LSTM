@@ -1,7 +1,3 @@
-Certainly! Below is a sample Readme file for your code and application:
-
----
-
 # Sentiment Analysis Model
 
 ## Overview
@@ -59,7 +55,3 @@ After training, the model can be used to make predictions on new data. The noteb
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the Readme file based on your preferences and additional information about the project. Include details such as dataset sources, model improvements, and any other relevant information.
