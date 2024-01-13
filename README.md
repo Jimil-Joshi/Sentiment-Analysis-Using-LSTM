@@ -50,8 +50,7 @@ After training, the model can be used to make predictions on new data. The noteb
 
 ## Author
 
-[Your Name]
-
+Jimil Joshi
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
